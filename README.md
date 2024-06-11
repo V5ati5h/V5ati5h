@@ -6,7 +6,7 @@
   <a href="https://discord.gg/cFkgNR7z">
     <img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/c/V5ati5h">
+  <a href="https://www.youtube.com/@V5ati5h">
     <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://github.com/V5ati5h?tab=repositories&sort=stargazers">
