@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on [Casagbic](https://casagbic.com/).
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on [YouTube](https://youtube.com/V5ati5h).
+- 👯 I’m looking to collaborate on [YouTube](https://youtube.com/@V5ati5h).
 - 💬 Ask me about any tech-related stuff.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing games every day.
@@ -39,7 +39,7 @@
 ## Languages and Tools:
 <p align="left">
   <a href="https://github.com/V5ati5h">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,replit,github,angular,java,kotlin,python,c,cpp,cs,php,css,html,js,ts,scss,mongodb,mysql,express,nodejs,bots"/>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,replit,github,stackoverflow,wordpress,angular,dotnet,java,kotlin,python,c,cpp,cs,php,css,html,js,jquery,ts,scss,mongodb,firebase,supabase,mysql,sqlite,postgres,express,nodejs,bots"/>
   </a>
 </p>  
 
