@@ -40,7 +40,7 @@
 ## 🛠️ Languages & Tools I Use
 <p align="center">
   <a href="https://github.com/V5ati5h">
-    <img alt="Skills" src="https://skillicons.dev/icons?i=vscode,androidstudio,github,wordpress,angular,react,nextjs,flutter,capacitor,ionic,dotnet,java,kotlin,python,cpp,cs,php,html,css,js,ts,scss,mongodb,firebase,supabase,mysql,sqlite,postgres,nodejs,express,aws"/>
+    <img alt="Skills" src="https://skillicons.dev/icons?i=vscode,androidstudio,github,wordpress,angular,react,nextjs,flutter,dotnet,java,kotlin,python,cpp,cs,php,html,css,js,ts,scss,mongodb,firebase,supabase,mysql,sqlite,postgres,nodejs,express,aws"/>
   </a>
 </p>
 
