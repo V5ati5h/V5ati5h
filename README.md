@@ -16,9 +16,11 @@
     <img alt="GitHub Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/V5ati5h?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
   </a>
   <a href="https://github.com/V5ati5h">
-    <img src="https://komarev.com/ghpvc/?username=V5ati5h&style=for-the-badge&color=brightgreen"/>
+    <img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=V5ati5h&style=for-the-badge&color=brightgreen"/>
   </a>
 </p>
+
+---
 
 ### 💡 About Me
 - 🔧 Currently building: [Casagbic](https://casagbic.com) — a digital hub for creative and monetizable Android projects.
@@ -36,9 +38,9 @@
 ---
 
 ## 🛠️ Languages & Tools I Use
-<p align="left">
+<p align="center">
   <a href="https://github.com/V5ati5h">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,github,wordpress,angular,dotnet,java,kotlin,python,cpp,cs,php,html,css,js,ts,scss,mongodb,firebase,mysql,sqlite,postgres,nodejs,express" />
+    <img alt="Skills" src="https://skillicons.dev/icons?i=vscode,androidstudio,github,wordpress,angular,react,nextjs,flutter,capacitor,ionic,dotnet,java,kotlin,python,cpp,cs,php,html,css,js,ts,scss,mongodb,firebase,supabase,mysql,sqlite,postgres,nodejs,express,aws"/>
   </a>
 </p>
 
@@ -46,7 +48,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=V5ati5h&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515"/>
+  <img height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=V5ati5h&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515"/>
 </p>
 
 ---
@@ -61,9 +63,9 @@
 ---
 
 ## 📌 Top Repository
-<p align="left">
+<p align="center">
    <a href="https://github.com/V5ati5h/Chexx">
-     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=V5ati5h&repo=Chexx&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Chexx Repo" />
+     <img width="278" alt="Chexx Repo" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=V5ati5h&repo=Chexx&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" />
    </a>
 </p>
 
