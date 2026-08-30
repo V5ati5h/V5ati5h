@@ -1,6 +1,6 @@
 # 👋 Hi, I'm VSatish
 
-<h3 align="center">Full-Stack Developer • Android Developer • Creator</h3>
+<h3 align="center">Full-Stack Developer & Creator</h3>
 
 <p align="center">
   Software developer working across web, mobile, backend, and APIs.
