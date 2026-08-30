@@ -47,8 +47,6 @@ Interested in building practical software, exploring new technologies, and exper
 
 <p align="center">
   <a href="https://www.youtube.com/@V5ati5h">YouTube</a>
-  •
-  <a href="https://casagbic.com">Casagbic</a>
 </p>
 
 <p align="center">
